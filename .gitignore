@@ -1,0 +1,40 @@
+*.class
+.settings
+.pm.approuter
+**/target/
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+**/.checkstyle
+
+scheduler/createDDL.jdbc
+scheduler/dropDDL.jdbc
+
+.project
+
+**/log
+
+*/.classpath
+
+pm.common/.wvn
+
+
+**/node_modules/**
+**/node/**
+**/.project
+*/*/.project
+
+**/package-lock.json
+**/.idea/**
+
+bin/
+.classpath
